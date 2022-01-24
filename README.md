@@ -3,6 +3,6 @@
 <ul>
 <li>HTML
   <li>CSS
-    <li>
+    <li>JavaScript
 
 </ul>
