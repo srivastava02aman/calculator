@@ -22,6 +22,7 @@ for (item of buttons) {
             screen.value = empty;
         }
         else if (buttonText == '=') {
+            //never use eval() because of security reasons...
             screen.value = eval(empty);
         }
         else {
